@@ -1,6 +1,6 @@
-# ADI MCP
+# ADI Code Indexer - MCP
 
-Model Context Protocol (MCP) server for ADI (AI-powered Developer Intelligence) - enabling AI assistants to search and understand codebases.
+Model Context Protocol (MCP) server for ADI Code Indexer - enabling AI assistants to search and understand codebases.
 
 ## Overview
 
