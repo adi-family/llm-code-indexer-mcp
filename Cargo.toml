@@ -1,0 +1,18 @@
+[package]
+name = "adi-mcp"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "adi-mcp"
+path = "src/main.rs"
+
+[dependencies]
+adi-core.workspace = true
+tokio.workspace = true
+anyhow.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+serde.workspace = true
+serde_json.workspace = true
